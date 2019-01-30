@@ -1,0 +1,15 @@
+{
+  "name": "DSAEssensbot",
+  "version": "0.0.1",
+  "description": "Essens Bot für die DSA Gruppe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/HoelShare/dsaessensbot"
+  },
+  "author": "Seabstian Hölscher",
+  "license": "The Unlicense"
+}
