@@ -1,15 +1,22 @@
 {
-  "name": "DSAEssensbot",
+  "name": "dasssensbot",
   "version": "0.0.1",
   "description": "Essens Bot für die DSA Gruppe",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "deploy": "now -p -e TELEGRAM_TOKEN=@telegram_token"
+  },
+  "engines": {
+    "node": "10.3.0"
   },
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/HoelShare/dsaessensbot"
   },
   "author": "Seabstian Hölscher",
-  "license": "The Unlicense"
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.26.0"
+  }
 }

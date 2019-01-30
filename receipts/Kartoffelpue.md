@@ -1,0 +1,1 @@
+Kartoffelpü mit Fischstäbchen
