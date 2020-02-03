@@ -1,1 +1,0 @@
-Hawaischnitzel & Süßkartoffelpommes
