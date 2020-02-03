@@ -1,1 +1,0 @@
-Gefülltes Hähnchenfilet mit Ofengemüse & Ofenkartoffeln
