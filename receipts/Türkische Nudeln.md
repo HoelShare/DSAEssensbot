@@ -1,12 +1,9 @@
-Heute gibt's [Türkische Nudeln](https://www.chefkoch.de/rezepte/2144711344611305/Tuerkische-Nudeln.html)
+Türkische Nudeln
 
-*Rezept für 6 Personen*
-
-- 750g - Hackfleisch vom Rind 
-- 750g - Spaghetti 
-- Salzwasser 
-- 750g - Joghurt 
-- 1 ½ Zehen - Knoblauch 
-- n. B. - Tomatenmark 
-- Salz und Pfeffer 
-- Paprikapulver 
+Rezept für 5-6 Personen
+750g - Hackfleisch vom Rind 
+750g - Spaghetti 
+750g - griechischen Joghurt 
+2 Zehen - Knoblauch 
+1 Tube Paprika-Tomatenmark 
+1 Bund Blattpetersilie (frisch)
